@@ -1,3 +1,4 @@
+
 stroka = '   qwert yuiop    '
 result = stroka.strip()
 
