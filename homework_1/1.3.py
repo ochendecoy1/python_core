@@ -1,3 +1,4 @@
+
 a = "stroka"
 b = "ing"
 
