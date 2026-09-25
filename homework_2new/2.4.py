@@ -15,6 +15,7 @@ while True:
 
     if user_input == secret_number:
         print(f"В точку, 37! И всего то {attempt} попыток")
+        break
     elif user_input < secret_number:
         print("Холодно")
     else:
