@@ -1,0 +1,22 @@
+[
+  {
+    "login": "user_valid",
+    "password": "nicePass123!",
+    "expected_result": "SUCCESS"
+  },
+  {
+    "login": "user_wrong_pass",
+    "password": "BadPASS",
+    "expected_result": "FAIL"
+  },
+  {
+    "login": "user_blocked",
+    "password": "AnyPass123",
+    "expected_result": "BLOCKED"
+  },
+  {
+    "login": "user_empty_pass",
+    "password": "",
+    "expected_result": "FAIL"
+  }
+]
