@@ -1,0 +1,16 @@
+{
+    "total_tests": 10,
+    "passed_tests": 5,
+    "failed_tests": 3,
+    "skipped_tests": 2,
+    "failed_names": [
+        "test_logout",
+        "test_profile",
+        "test_cart"
+    ],
+    "longest_test": {
+        "name": "test_upload",
+        "time": 5.7
+    },
+    "total_time": 18.799999999999997
+}
