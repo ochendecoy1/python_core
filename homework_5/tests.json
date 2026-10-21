@@ -1,0 +1,12 @@
+[
+  {"name": "test_login", "status": "PASS", "time": 1.2},
+  {"name": "test_logout", "status": "FAIL", "time": 0.8},
+  {"name": "test_registration", "status": "PASS", "time": 2.5},
+  {"name": "test_profile", "status": "FAIL", "time": 1.1},
+  {"name": "test_payment", "status": "SKIP", "time": 0.0},
+  {"name": "test_search", "status": "PASS", "time": 3.4},
+  {"name": "test_cart", "status": "FAIL", "time": 2.2},
+  {"name": "test_checkout", "status": "SKIP", "time": 0.0},
+  {"name": "test_upload", "status": "PASS", "time": 5.7},
+  {"name": "test_download", "status": "PASS", "time": 1.9}
+]
